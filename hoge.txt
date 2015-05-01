@@ -1,2 +1,2 @@
-File is Changed.
-Conflict master.
+File is changed.
+master.
