@@ -1,2 +1,2 @@
 File is changed.
-master.
+File is changed by master.
