@@ -1,2 +1,2 @@
 File is Changed.
-Conflict.
+File is changed by try-conflict
